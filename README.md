@@ -1,4 +1,6 @@
-# .env 範例 mail relay
+This is an automated ZAP scanning tool that logs various risks into an Excel file and sends emails automatically.
+
+# .env example mail relay
 
 EMAIL_PASS=your_password
 
